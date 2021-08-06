@@ -13,23 +13,32 @@ The following are instructions to install Stroll's beta build.
 
 ### Android
 
-1. Install the apk located [here](https://drive.google.com/drive/u/1/folders/1u8LhAiQUNnyeUr6Xl3bR1ptuz7hqXGI-).
-
-## Testing Instructions
-
-**While testing, you can try to**
-
-1. use the app like you would if you were a regular user, or
-2. go wild and try to break the app with unexpected edge cases.
-
-**The following items should be tested,**
-
-- Test app interface to lookout for UI bugs, anomalies, or anything that doesn't make sense.
-- Test route generation feature to make sure generated routes are viewable, reasonable, and (if you're familiar with Berkeley) safe.
+1. Install the APK located [here](https://drive.google.com/drive/u/1/folders/1u8LhAiQUNnyeUr6Xl3bR1ptuz7hqXGI-).
 
 ## Submitting Feedback
 
 If you notice any issues or have any feedback, please submit them [here](https://forms.gle/DxMdFYiYEy19PCh4A).
+
+If you're reporting a bug, please provide a screenshot and steps to reproduce them.
+
+## Testing Guidelines
+
+**The following items should be reported in our feedback form,**
+
+- Visual bugs, anomalies, or anything that doesn't make sense in the app interface.
+- Generated routes that are not viewable, unreasonable, broken, and (if you're familiar with Berkeley) unsafe.
+
+**While testing, you can try to**
+
+1. Use the app like you would if you were a regular user.
+    a. Search for places you normally visit.
+    b. Try different safety settings (which you can change by tapping the gear icon on the top right corner).
+    c. Try generating routes in Berkeley with Stroll and walk there.
+2. Go wild and try to break the app with unexpected edge cases.
+
+**When walking with Stroll,**
+
+You should still be street smart, travel when it's safe, and be aware of your surroundings! Stroll isn't Batman.
 
 ## Thank you! You are amazing! 🥳
 
