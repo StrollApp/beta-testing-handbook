@@ -19,7 +19,7 @@ The following are instructions to install Stroll's beta build.
 
 If you notice any issues or have any feedback, please submit them [here](https://forms.gle/DxMdFYiYEy19PCh4A).
 
-If you're reporting a bug, please provide a screenshot and steps to reproduce them.
+If you're reporting a bug, please provide screenshot(s) and steps needed to reproduce them.
 
 ## Testing Guidelines
 
@@ -31,9 +31,9 @@ If you're reporting a bug, please provide a screenshot and steps to reproduce th
 **While testing, you can try to**
 
 1. Use the app like you would if you were a regular user.
-    a. Search for places you normally visit.
-    b. Try different safety settings (which you can change by tapping the gear icon on the top right corner).
-    c. Try generating routes in Berkeley with Stroll and walk there.
+    1. Search for places you normally visit.
+    2. Try different safety settings (which you can change by tapping the gear icon on the top right corner).
+    3. Try generating routes in Berkeley with Stroll and walk there.
 2. Go wild and try to break the app with unexpected edge cases.
 
 **When walking with Stroll,**
