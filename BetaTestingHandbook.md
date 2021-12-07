@@ -13,7 +13,7 @@ The following are instructions to install Stroll's beta build.
 
 ### Android
 
-1. Install the beta [here](https://play.google.com/store/apps/details?id=com.animatorjoe.strollapp).
+1. Install the beta [here](https://drive.google.com/file/d/1dN3dU_OiCbNiY279XOU5y_SrZNYZm3hg/view?usp=sharing).
 
 ## Submitting Feedback
 
